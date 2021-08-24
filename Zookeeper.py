@@ -119,8 +119,34 @@ Switching on camera from habitat with rabbits...
 (" ~----( ~   Y.  )
 It seems there will be more rabbits soon!"""
 
+daemon = r"""
+Switching on camera from habitat with rabbits...
+  ________________
+| This is DAEMON!! |
+  ================
+                          \
+                           \
+                            \
+                             \
+                              /- _  `-/ '
+                             (/\/ \ \   /\
+                             / /   | `    \
+                             O O   ) /    |
+                             `-^--'`<     '
+                            (_.)  _  )   /
+                             `.___/`    /
+                               `-----' /
+                  <----.     __ / __   \
+                  <----|====O)))==) \) /====
+                  <----'    `--' `.__,' \
+                               |        |
+                                \       /
+                          ______( (_  / \______
+                        ,'  ,-----'   |        \
+                        `--{__________)        \/
+Children do mess with daemon, cuz it's harmeless..."""
 
-animals = [camel, lion, deer, goose, bat, rabbit]
+animals = [camel, lion, deer, goose, bat, rabbit, daemon]
 
 # write your code here
 control = True
